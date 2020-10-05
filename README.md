@@ -1,6 +1,6 @@
 ### Hello Everyone! 👋
 
-My name is Muhammad Satrio Wicaksono, usually called Satrio. Graduated Informatics Engineering student from Telkom University, Bandung, Indonesia. Currently living in Jakarta, Indonesia. Below are some facts about me
+My name is Satrio. Graduated Informatics Engineering student from Telkom University, Bandung, Indonesia. Currently living in Jakarta, Indonesia. Below are some facts about me
 
 - 🌱 I’m currently learning Go and Flutter
 - 👯 I’m looking to collaborate on any React, Vue, and any front end open source projects!
