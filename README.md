@@ -1,6 +1,6 @@
 ### Hello Everyone! 👋
 
-My name is Satrio. Graduated Informatics Engineering student from Telkom University, Bandung, Indonesia. Currently living in Jakarta, Indonesia.
+My name is Satrio.
 
 Below are some facts about me
 
