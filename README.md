@@ -4,7 +4,7 @@ My name is Satrio, nice to see you!
 
 - 🌱 I’m currently learning Go and Flutter
 - 👯 I’m looking to collaborate on any open source projects related to React or Javascript
-- 📫 How to reach me: [muhsatrio@gmail.com](mailto:muhsatrio@gmail.com) or Telegram [@muhsatrio](https://t.me/muhsatrio)
+- 📫 React me at [muhsatrio@gmail.com](mailto:muhsatrio@gmail.com) or Telegram [@muhsatrio](https://t.me/muhsatrio)
 
 <!--
 **muhsatrio/muhsatrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
