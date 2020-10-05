@@ -3,7 +3,7 @@
 My name is Satrio. Graduated Informatics Engineering student from Telkom University, Bandung, Indonesia. Currently living in Jakarta, Indonesia. Below are some facts about me
 
 - 🌱 I’m currently learning Go and Flutter
-- 👯 I’m looking to collaborate on any React, Vue, and any front end open source projects!
+- 👯 I’m looking to collaborate on any open source projects related to React or Javascript
 - 📫 How to reach me: [muhsatrio@gmail.com](muhsatrio@gmail.com) or Telegram [@muhsatrio](https://t.me/muhsatrio)
 
 <!--
