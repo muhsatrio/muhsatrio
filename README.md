@@ -2,8 +2,6 @@
 
 My name is Satrio.
 
-Below are some facts about me
-
 - 🌱 I’m currently learning Go and Flutter
 - 👯 I’m looking to collaborate on any open source projects related to React or Javascript
 - 📫 How to reach me: [muhsatrio@gmail.com](muhsatrio@gmail.com) or Telegram [@muhsatrio](https://t.me/muhsatrio)
