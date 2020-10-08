@@ -2,7 +2,7 @@
 
 My name is Satrio, nice to see you!
 
-- 🔭 I’m currently working on Shopee as Software Engineer
+- 🔭 I’m currently working on Shopee Indonesia as Software Engineer
 - 🌱 I’m currently learning Go and Flutter
 - 👯 I’m looking to collaborate on any open source projects related to React, Vue, or any Javascript technology
 - 💬 Ask me about Competitive Programming and Full Stack Web Development
