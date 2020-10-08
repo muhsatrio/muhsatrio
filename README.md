@@ -2,8 +2,11 @@
 
 My name is Satrio, nice to see you!
 
+- 🔭 I’m currently working on Shopee as Software Engineer
 - 🌱 I’m currently learning Go and Flutter
-- 👯 I’m looking to collaborate on any open source projects related to React or Javascript
+- 👯 I’m looking to collaborate on any open source projects related to React, Vue, or other Javascript technology
+- 💬 Ask me about Competitive Programming and Full Stack Web Development
+- 😄 Pronouns: he/him
 - 📫 Reach me at [muhsatrio@gmail.com](mailto:muhsatrio@gmail.com) or Telegram [@muhsatrio](https://t.me/muhsatrio)
 
 <!--
