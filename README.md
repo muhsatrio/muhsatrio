@@ -8,7 +8,7 @@ My name is Satrio, nice to see you!
 - 💬 Ask me about Competitive Programming and Full Stack Web Development
 - 😄 Pronouns: he/him
 - 📫 Reach me at [muhsatrio@gmail.com](mailto:muhsatrio@gmail.com) or Telegram [@muhsatrio](https://t.me/muhsatrio)
-- ⚡ Fun fact: Vespa lovers!
+- ⚡ Fun fact: Vespa admirer!
 
 <!--
 **muhsatrio/muhsatrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
