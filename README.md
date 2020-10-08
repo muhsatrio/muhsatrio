@@ -2,8 +2,8 @@
 
 My name is Satrio, nice to see you!
 
-- 🔭 I’m currently working on Shopee Indonesia as Software Engineer
-- 🌱 I’m currently learning Go and Flutter
+- 🔭 I’m currently working on [Shopee Indonesia](https://shopee.co.id/) as Software Engineer
+- 🌱 I’m currently learning [Go](https://golang.org/) and [Flutter](https://flutter.dev/)
 - 👯 I’m looking to collaborate on any open source projects related to React, Vue, or any Javascript technology
 - 💬 Ask me about Competitive Programming and Full Stack Web Development
 - 😄 Pronouns: he/him
