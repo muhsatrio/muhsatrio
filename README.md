@@ -4,7 +4,7 @@ My name is Satrio, nice to see you!
 
 - 🔭 I’m currently working on [Shopee Indonesia](https://shopee.co.id/) as Software Engineer - Backend
 - 🌱 I’m currently learning [Golang](https://golang.org/) and [Flutter](https://flutter.dev/)
-- 👯 I’m looking to collaborate on any open source projects related to [React](https://reactjs.org/), [Vue](https://vuejs.org/), or any Javascript technology also Golang project
+- 👯 I’m looking to collaborate on any open source projects related to [React](https://reactjs.org/), [Vue](https://vuejs.org/), or any Javascript and Golang technology
 - 💬 Ask me about Competitive Programming and Full Stack Web Development
 - 😄 Pronouns: he/him
 - 📫 Reach me at [muhsatrio@gmail.com](mailto:muhsatrio@gmail.com) or Telegram [@muhsatrio](https://t.me/muhsatrio)
